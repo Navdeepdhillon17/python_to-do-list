@@ -15,3 +15,25 @@ A simple and user-friendly To-Do List application built using Python's Tkinter l
    ```bash
    git clone https://github.com/Navdeepdhillon17/python_to-do-list.git
 
+## Requirements
+Python 3.x
+Tkinter: Included with most Python installations.
+Usage
+Adding a Task:
+
+Type a task description in the input box and click "Add Task".
+If the input box is empty, a warning will appear prompting you to enter a task.
+Deleting a Task:
+
+Select a task from the list and click "Delete Task" to remove it.
+Marking a Task as Done:
+
+Select a task from the list and click "Mark as Done" to add a checkmark next to it.
+Interface Design
+Top Frame: Contains the task input box and the "Add Task" button.
+Middle Frame: Displays the list of tasks.
+Bottom Frame: Contains the "Delete Task" and "Mark as Done" buttons.
+Color Scheme: Dark background colors with contrasting button colors for better readability.
+
+## Acknowledgments
+Thanks to the Tkinter documentation and online communities for guidance on creating user-friendly interfaces with Python.

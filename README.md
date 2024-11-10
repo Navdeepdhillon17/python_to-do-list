@@ -13,5 +13,5 @@ A simple and user-friendly To-Do List application built using Python's Tkinter l
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/Navdeepdhillon17/todo-list-app.git
+   git clone https://github.com/Navdeepdhillon17/python_to-do-list.git
 
